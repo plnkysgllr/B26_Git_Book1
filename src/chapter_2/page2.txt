@@ -1,0 +1,17 @@
+Design
+=======================================
+- architecture of the application
+- micro service development
+- what kind of API (RestAPI)
+- what kind of development framework will be used
+- data base
+- ui / ux
+- together with development framework, testing framework is also designed in this step
+
+=> who will be involved
+  - project manager
+  - product owner - now he will build the communication to the technical team
+  - business analyst - will translate requirements to be understandable for technical people - developers and testers
+
+  page 2
+  text
