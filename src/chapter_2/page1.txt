@@ -1,0 +1,47 @@
+SDLC
+  ===============================
+=> Requirements Gathering
+
+=> collect the data
+-  from customers
+-  from end user
+-  from market
+
+=> feasibility study - to analyze all information gathered
+
+=> document
+- SRS
+
+- requirements should have some criteria
+
+=> SMART
+
+- Specific
+ it should clearly say, what is wanted from the functionality / software
+
+- Measurable
+ the requirement should be measurable specifically for technical things like functionality being responsive
+
+- Attainable
+in software we can not make to smell the food, but we can have pictures of the food
+
+- Realistic
+it should be realistic from business mind set
+
+- Testable
+  for functionality / software to be shipped to the users, needs to be testable, if can not test we can not say that we developed what is wanted from us
+
+Design
+=======================================
+- architecture of the application
+- micro service development
+- what kind of API (RestAPI)
+- what kind of development framework will be used
+- data base
+- ui / ux
+- together with development framework, testing framework is also designed in this step
+
+=> who will be involved
+  - project manager
+  - product owner - now he will build the communication to the technical team
+  - business analyst - will translate requirements to be understandable for technical people - developers and testers
